@@ -1,0 +1,57 @@
+Handle,Title,Body (HTML),Vendor,Type,Tags,Published,Option1 Name,Option1 Value,Option2 Name,Option2 Value,Option3 Name,Option3 Value,Variant SKU,Variant Grams,Variant Inventory Tracker,Variant Inventory Qty,Variant Inventory Policy,Variant Fulfillment Service,Variant Price,Variant Compare At Price,Variant Requires Shipping,Variant Taxable,Variant Barcode,Image Src,Image Position,Image Alt Text,Gift Card,SEO Title,SEO Description,Google Shopping / Google Product Category,Google Shopping / Gender,Google Shopping / Age Group,Google Shopping / MPN,Google Shopping / AdWords Grouping,Google Shopping / AdWords Labels,Google Shopping / Condition,Google Shopping / Custom Product,Google Shopping / Custom Label 0,Google Shopping / Custom Label 1,Google Shopping / Custom Label 2,Google Shopping / Custom Label 3,Google Shopping / Custom Label 4,Variant Image,Variant Weight Unit,Variant Tax Code
+brown-watch,Brown Watch,"",Fashion Udemy,Watch,"",true,Title,Default Title,,,,,"",0,,1,deny,manual,299.00,,true,true,"",https://cdn.shopify.com/s/files/1/0010/4425/0687/products/watch-3.jpg?v=1520870379,1,,false,,,,,,,,,,,,,,,,,lb,
+olive-watch,Olive Watch,"",Fashion Udemy,Watch,"",true,Title,Default Title,,,,,"",0,,1,deny,manual,199.00,,true,true,"",https://cdn.shopify.com/s/files/1/0010/4425/0687/products/watch-2.jpg?v=1520870363,1,,false,,,,,,,,,,,,,,,,,lb,
+copper-watch,Copper Watch,"",Fashion Udemy,Watch,"",true,Title,Default Title,,,,,"",0,,1,deny,manual,499.00,,true,true,"",https://cdn.shopify.com/s/files/1/0010/4425/0687/products/watch-1.jpg?v=1520870310,1,,false,,,,,,,,,,,,,,,,,lb,
+state-necklace,State Necklace,"",Fashion Udemy,Necklace,"",true,Title,Default Title,,,,,"",0,,1,deny,manual,0.00,,true,true,"",https://cdn.shopify.com/s/files/1/0010/4425/0687/products/necklace-3.jpg?v=1520870287,1,,false,,,,,,,,,,,,,,,,,lb,
+stars-necklace,Stars Necklace,"",Fashion Udemy,Necklace,"",true,Title,Default Title,,,,,"",0,,1,deny,manual,0.00,,true,true,"",https://cdn.shopify.com/s/files/1/0010/4425/0687/products/necklace-2.jpg?v=1520870251,1,,false,,,,,,,,,,,,,,,,,lb,
+triangle-necklace,Triangle Necklace,"",Fashion Udemy,Necklace,"",true,Title,Default Title,,,,,"",0,,1,deny,manual,0.00,,true,true,"",https://cdn.shopify.com/s/files/1/0010/4425/0687/products/necklace-1.jpg?v=1520869699,1,,false,,,,,,,,,,,,,,,,,lb,
+rustic-jeans,Rustic Jeans,"",Fashion Udemy,Jeans,Mens,true,Title,Default Title,,,,,"",0,,1,deny,manual,119.00,,true,true,"",https://cdn.shopify.com/s/files/1/0010/4425/0687/products/mens-jeans-3.jpg?v=1520867880,1,,false,,,,,,,,,,,,,,,,,lb,
+charcoal-jeans,Charcoal Jeans,"",Fashion Udemy,Jeans,Mens,true,Title,Default Title,,,,,"",0,,1,deny,manual,89.00,119.00,true,true,"",https://cdn.shopify.com/s/files/1/0010/4425/0687/products/mens-jeans-2.jpg?v=1520867826,1,,false,,,,,,,,,,,,,,,,,lb,
+navy-jeans,Navy Jeans,"",Fashion Udemy,Jeans,Mens,true,Title,Default Title,,,,,"",0,,1,deny,manual,99.00,,true,true,"",https://cdn.shopify.com/s/files/1/0010/4425/0687/products/mens-jeans-1.jpg?v=1520867791,1,,false,,,,,,,,,,,,,,,,,lb,
+teal-shirt,Teal Shirt,This is teal,Fashion Udemy,Shirts,Mens,true,Title,Default Title,,,,,"",0,,1,deny,manual,10.00,,true,true,"",https://cdn.shopify.com/s/files/1/0010/4425/0687/products/mens-shirt-3.jpg?v=1520864397,1,,false,,,,,,,,,,,,,,,,,lb,
+gray-shirt,Gray Shirt,"<p>This is a gray shirt</p>
+<p>Product Description</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum ipsum dicta quod, quia doloremque aut deserunt commodi quis. Totam a consequatur beatae nostrum, earum consequuntur? Eveniet consequatur ipsum dicta recusandae.</p>
+<p>Specifications</p>
+<table class=""table"">
+<tbody>
+<tr>
+<td style=""width: 544px;"">Small</td>
+<td style=""width: 544px;"">15 inches</td>
+</tr>
+<tr>
+<td style=""width: 544px;"">Medium</td>
+<td style=""width: 544px;"">17 inches</td>
+</tr>
+<tr>
+<td style=""width: 544px;"">Large</td>
+<td style=""width: 544px;"">20 inches</td>
+</tr>
+<tr>
+<td style=""width: 544px;"">X Large</td>
+<td style=""width: 544px;"">25 inches</td>
+</tr>
+</tbody>
+</table>
+<p> </p>",Fashion Udemy,Shirts,Mens,true,Size,Small,Color,Blue,,,"",0,,0,deny,manual,12.00,,true,true,"",https://cdn.shopify.com/s/files/1/0010/4425/0687/products/mens-shirt-2.jpg?v=1520864376,1,,false,,,,,,,,,,,,,,,,,lb,
+gray-shirt,,,,,,,,Small,,Red,,,"",0,,0,deny,manual,12.00,,true,true,"",https://cdn.shopify.com/s/files/1/0010/4425/0687/products/mens-shirt-1_9e74b415-d056-4aa0-94b4-b6fef47ae94d.jpg?v=1520995002,2,,,,,,,,,,,,,,,,,,,lb,
+gray-shirt,,,,,,,,Small,,Green,,,"",0,,0,deny,manual,12.00,,true,true,"",,,,,,,,,,,,,,,,,,,,,lb,
+gray-shirt,,,,,,,,Medium,,Blue,,,"",0,,0,deny,manual,12.00,,true,true,"",,,,,,,,,,,,,,,,,,,,,lb,
+gray-shirt,,,,,,,,Medium,,Red,,,"",0,,0,deny,manual,12.00,,true,true,"",,,,,,,,,,,,,,,,,,,,,lb,
+gray-shirt,,,,,,,,Medium,,Green,,,"",0,,0,deny,manual,12.00,,true,true,"",,,,,,,,,,,,,,,,,,,,,lb,
+gray-shirt,,,,,,,,Large,,Blue,,,"",0,,0,deny,manual,12.00,,true,true,"",,,,,,,,,,,,,,,,,,,,,lb,
+gray-shirt,,,,,,,,Large,,Red,,,"",0,,0,deny,manual,12.00,,true,true,"",,,,,,,,,,,,,,,,,,,,,lb,
+gray-shirt,,,,,,,,Large,,Green,,,"",0,,0,deny,manual,12.00,,true,true,"",,,,,,,,,,,,,,,,,,,,,lb,
+gray-shirt,,,,,,,,X Large,,Blue,,,"",0,,0,deny,manual,12.00,,true,true,"",,,,,,,,,,,,,,,,,,,,,lb,
+gray-shirt,,,,,,,,X Large,,Red,,,"",0,,0,deny,manual,12.00,,true,true,"",,,,,,,,,,,,,,,,,,,,,lb,
+gray-shirt,,,,,,,,X Large,,Green,,,"",0,,0,deny,manual,12.00,,true,true,"",,,,,,,,,,,,,,,,,,,,,lb,
+salmon-shirt,Salmon Shirt,"",Fashion Udemy,Shirts,Mens,true,Title,Default Title,,,,,"",0,,1,deny,manual,15.00,,true,true,"",https://cdn.shopify.com/s/files/1/0010/4425/0687/products/mens-shirt-1.jpg?v=1520864351,1,,false,,,,,,,,,,,,,,,,,lb,
+cream-tank,Cream Tank,Top,Fashion Udemy,"","",true,Title,Default Title,,,,,"",0,,1,deny,manual,4.00,,true,true,"",https://cdn.shopify.com/s/files/1/0010/4425/0687/products/product-9.jpg?v=1520794405,1,,false,,,,,,,,,,,,,,,,,lb,
+v-neck-shirt,V-Neck Shirt,Low cut,Fashion Udemy,Shirts,Womens,true,Title,Default Title,,,,,"",0,,1,deny,manual,10.00,,true,true,"",https://cdn.shopify.com/s/files/1/0010/4425/0687/products/product-8.jpg?v=1520794376,1,,false,,,,,,,,,,,,,,,,,lb,
+blue-scarf,Blue Scarf,Frilly,Fashion Udemy,"","",true,Title,Default Title,,,,,"",0,,1,deny,manual,9.00,,true,true,"",https://cdn.shopify.com/s/files/1/0010/4425/0687/products/product-7.jpg?v=1520794341,1,,false,,,,,,,,,,,,,,,,,lb,
+purple-shirt,Purple Shirt,Short sleeve,Fashion Udemy,Shirts,Womens,true,Title,Default Title,,,,,"",0,,1,deny,manual,34.00,39.00,true,true,"",https://cdn.shopify.com/s/files/1/0010/4425/0687/products/product-6.jpg?v=1520794309,1,,false,,,,,,,,,,,,,,,,,lb,
+blue-pants,Blue Pants,Lighter blue,Fashion Udemy,"","",true,Title,Default Title,,,,,"",0,,1,deny,manual,59.00,99.00,true,true,"",https://cdn.shopify.com/s/files/1/0010/4425/0687/products/product-5.jpg?v=1520794277,1,,false,,,,,,,,,,,,,,,,,lb,
+purple-flowers,Purple Flowers,On yellow shirt,Fashion Udemy,"","",true,Title,Default Title,,,,,"",0,,1,deny,manual,19.00,9.00,true,true,"",https://cdn.shopify.com/s/files/1/0010/4425/0687/products/product-4.jpg?v=1520794247,1,,false,,,,,,,,,,,,,,,,,lb,
+teal-stripes,Teal Stripes,Teal and white stripes,Fashion Udemy,Shirts,Womens,true,Title,Default Title,,,,,"",0,,1,deny,manual,29.00,,true,true,"",https://cdn.shopify.com/s/files/1/0010/4425/0687/products/product-3.jpg?v=1520790960,1,,false,,,,,,,,,,,,,,,,,lb,
+gray-blouse,Gray Blouse,Gray,Fashion Udemy,"","",true,Title,Default Title,,,,,"",0,,1,deny,manual,99.00,200.00,true,true,"",https://cdn.shopify.com/s/files/1/0010/4425/0687/products/product-2.jpg?v=1520790926,1,,false,,,,,,,,,,,,,,,,,lb,
+blue-flower-dress,Blue Flower Dress,Blue flowers,Fashion Udemy,Dress,Womens,true,Title,Default Title,,,,,"",0,,1,deny,manual,49.00,,true,true,"",https://cdn.shopify.com/s/files/1/0010/4425/0687/products/product-1.jpg?v=1520790890,1,,false,,,,,,,,,,,,,,,,,lb,
